@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Matching Engine: Stable Assignment Solver (Java)
 
 This project implements a complete engine for solving a multi-capacity stable assignment problem.  
